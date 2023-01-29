@@ -25,6 +25,11 @@ function multiply(a, b){
   return result;
 }
 ```
+---
 ## Experience and Projects
 - [Website with recipes](https://neversaynever24.github.io/Recipes/)
 - [CV](https://github.com/Neversaynever24/rsschool-cv)
+---
+## Education
+* The second year of the branch of Moscow State University
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
