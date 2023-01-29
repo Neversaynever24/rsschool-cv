@@ -1,1 +1,1 @@
-CV - https://neversaynever24.github.io/rsschool-cv/cv
+https://neversaynever24.github.io/rsschool-cv/
