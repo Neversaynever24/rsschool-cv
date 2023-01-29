@@ -33,3 +33,5 @@ function multiply(a, b){
 ## Education
 * The second year of the branch of Moscow State University
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+## English level
+A2(B1 in process)
