@@ -14,3 +14,11 @@ I am studying at the branch of Moscow State University in the second year at the
 * Python - Basics
 * VS Code - Middle
 * Git, GitHub - Middle
+## Code examples
+```
+function multiply(a, b){
+  let result;
+  result = a * b;
+  return result;
+}
+```
