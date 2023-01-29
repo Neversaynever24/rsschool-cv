@@ -8,12 +8,14 @@
 ---
 ## Brief information about me
 I am studying at the branch of Moscow State University in the second year at the Faculty of Applied Mathematics and Informatics, I want to get a job as a Frontend developer in the next 6 months. I learn quickly with a good assimilation of information.
+---
 ## Skills and Proficiency:
 * HTML and CSS - Basics
 * JavaScripts - Basics
 * Python - Basics
 * VS Code - Middle
 * Git, GitHub - Middle
+---
 ## Code examples
 ```
 function multiply(a, b){
